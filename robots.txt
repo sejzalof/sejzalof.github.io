@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://sejzalof.github.io/sitemap/sitemap.txt
